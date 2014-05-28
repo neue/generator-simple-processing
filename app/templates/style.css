@@ -1,0 +1,18 @@
+body {
+    background-color: #F4F4F4;
+    font: 9pt "Menlo", "Monaco", "Consolas", monospace;
+    color: #333;
+    margin: 20px;
+}
+
+a {
+	color: #0033FF;
+}
+
+a:hover {
+	color: #E44A5F;
+}
+
+canvas:focus {
+	outline:none;
+}
